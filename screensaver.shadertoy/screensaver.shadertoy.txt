@@ -1,1 +1,1 @@
-screensaver.shadertoy https://github.com/popcornmix/screensaver.shadertoy 26382054f82856f1a71c3036042636e475462a89
+screensaver.shadertoy https://github.com/popcornmix/screensaver.shadertoy eb31b443c1324e025840f7475b6383d4944e993d
