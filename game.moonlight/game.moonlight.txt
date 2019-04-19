@@ -1,0 +1,1 @@
+game.moonlight https://github.com/kodi-game/game.moonlight master
