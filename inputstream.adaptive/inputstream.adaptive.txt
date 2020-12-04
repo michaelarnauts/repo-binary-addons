@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/peak3d/inputstream.adaptive Leia_backport
+inputstream.adaptive https://github.com/michaelarnauts/inputstream.adaptive leia-base-url-in-adaptionset
